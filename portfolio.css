@@ -1,0 +1,37 @@
+#wrapper{
+  width: 90%;
+  margin: auto;
+}
+h1{
+  text-align: center;
+  background-color: #B2F3EE;
+  padding: 20px;
+}
+img{
+  padding: 20px;
+  margin: 10px;
+  width: 200px;
+  height: 200px;
+  display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.col-sm-4{
+  padding: 80px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th {
+  text-align: left;
+}
+th, td {
+  padding: 15px;
+}
+.row{
+  padding: 80px
+}
+body{
+  background-color: #82c0e7;
+}
