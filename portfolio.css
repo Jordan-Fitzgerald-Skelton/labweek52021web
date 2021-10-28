@@ -33,5 +33,85 @@ th, td {
   padding: 80px
 }
 body{
-  background-color: #82c0e7;
+  background-color: #82c0e7
+}
+@media screen and (max-width: 980px) {
+#wrapper {
+width: 95%;
+
+.main {
+width: 65%;
+}
+.sidebar {
+width: 30%;
+}
+@media screen and (max-width: 980px) {
+#wrapper {
+width: 95%;
+}
+.main {
+width: 65%;
+}
+.sidebar {
+width: 30%;
+}
+@media screen and (max-width: 980px) {
+#wrapper {
+width: 95%;
+}
+.main {
+width: 65%;
+}
+.sidebar {
+width: 30%;
+}
+@media screen and (max-width:980px){
+  #wrapper {
+  width: 95%;
+  }
+  .main {
+  width: 65%;
+  }
+  .sidebar {
+  width: 30%;
+}
+}
+@media screen and (max-width: 700px) {
+.main {
+width: auto;
+float: none;
+
+
+
+}
+.sidebar {
+width: auto;
+float: none;
+height: 100px;
+
+}
+
+
+.sml{
+width: 150px;
+height: 150px;
+
+}
+@media screen and (max-width: 700px) {
+.main {
+width: auto;
+float: none;
+}
+.sidebar {
+width: auto;
+float: none;
+height: 100px;
+
+}
+.sml{
+  width: 150px;
+  height: 150px
+}
+}
+
 }
